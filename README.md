@@ -17,3 +17,5 @@ This file will include the following sections:
 7. Segmented Characteristics to Classify Customers
 
 This is a simple technique to study customers purchase activities towards our brand.
+
+I also thank https://github.com/joaolcorreia for giving an informative and easy blog on RFM analysis.

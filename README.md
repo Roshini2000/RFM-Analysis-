@@ -1,9 +1,9 @@
 # RFM-Analysis-
 
 RFM analysis is a customer segmentation technique that uses past purchase behavior to segment customers.
-Recency (R) - Time since last purchase
-Frequency (F) - Total number of purchases
-Monetary value (M) - Total monetary value
+Recency (R) - Time since last purchase.
+Frequency (F) - Total number of purchases.
+Monetary value (M) - Total monetary value.
 
 To perform RFM analysis, we divide customers into four equal groups according to the distribution of values for recency, frequency, and monetary value.
 
